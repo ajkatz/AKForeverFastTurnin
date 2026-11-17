@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 (unreleased)
+## 0.1.0
 
 - Talk to the intake NPC (Dokimi in The Barrens, or the Alliance's in Redridge) with sealed crates in your
   bags: "A Sealed Crate" is picked, accepted and handed in for you. One talk per crate: the game closes
