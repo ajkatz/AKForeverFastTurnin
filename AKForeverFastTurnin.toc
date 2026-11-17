@@ -1,0 +1,11 @@
+## Interface: 16001
+## Version: @project-version@
+## Title: AKForeverFastTurnin
+## Notes: Clicks through repeatable hand-ins for you: sealed Waylaid Crates at the intake NPC, Craftsman's Writs, and any quest the game calls repeatable are accepted and handed in. Escort quests are started when you talk to their NPC and joined when a party member starts one. Hold Shift to do it yourself. Stops at a choice of rewards or a hand-in that costs gold.
+## Author: Purrdee
+## X-License: MIT
+## IconTexture: Interface\AddOns\AKForeverFastTurnin\icon
+## SavedVariables: AKForeverFastTurninDB
+
+Quests.lua
+Core.lua
